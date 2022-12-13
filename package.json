@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0",
+    "node-jq": "^2.3.4",
+    "node-libcurl": "^3.0.0"
+  }
+}
